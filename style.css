@@ -37,7 +37,7 @@ form {
 input {
   padding: 15px 10px;
   outline: none;
-  width: 400px;
+  width: 100%;
 }
 
 .li-container {
@@ -75,7 +75,7 @@ li p {
   outline: none;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
-  width: 10%;
+  width: 50px;
   font-size: 1.2em;
 }
 
@@ -91,6 +91,7 @@ li p {
   font-family: fantasy;
   background-color: teal;
   font-size: 1.4rem;
+  width: 50px;
   outline: none;
 }
 
